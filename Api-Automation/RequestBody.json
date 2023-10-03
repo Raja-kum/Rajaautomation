@@ -1,0 +1,22 @@
+{
+	"first name": "Raja",
+	"Last name": "Kumar",
+	"Company": "Devtrust",
+	"id": "{{id}}",
+	"Designation": "Quality",
+		"Office information":
+			[		 
+					
+		{
+			"office name": "IBM",
+			"Address": "Cp6 3rd floor",
+			"Land mark": "co bank",
+			"ward no":"456"
+		}
+				
+		]
+						
+						
+		
+	
+}
